@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="VppmEN4xuCA6ePT4Cfix">
+    <mxGraphModel dx="1030" dy="2870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jCWFJV8IkxHFCPmysHlB-6" edge="1" parent="1" source="jCWFJV8IkxHFCPmysHlB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="jCWFJV8IkxHFCPmysHlB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jCWFJV8IkxHFCPmysHlB-1" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
+          <mxGeometry height="90" width="180" x="40" y="-1070" as="geometry" />
+        </mxCell>
+        <mxCell id="jCWFJV8IkxHFCPmysHlB-8" edge="1" parent="1" source="jCWFJV8IkxHFCPmysHlB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="jCWFJV8IkxHFCPmysHlB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jCWFJV8IkxHFCPmysHlB-5" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="ATURAN_DISKON = (0.10, 50000)&lt;div&gt;BIAYA_EXPRESS = 10000&lt;/div&gt;&lt;div&gt;BIAYA_DELIVERY = 15000&lt;/div&gt;&lt;div&gt;MAX_SEPATU = 4&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="250" x="5" y="-890" as="geometry" />
+        </mxCell>
+        <mxCell id="jCWFJV8IkxHFCPmysHlB-13" edge="1" parent="1" source="jCWFJV8IkxHFCPmysHlB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jCWFJV8IkxHFCPmysHlB-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="-500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCWFJV8IkxHFCPmysHlB-7" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="DAFTAR_LAYANAN" vertex="1">
+          <mxGeometry height="100" width="250" x="5" y="-700" as="geometry" />
+        </mxCell>
+        <mxCell id="jCWFJV8IkxHFCPmysHlB-14" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;main()&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="210" x="25" y="-510" as="geometry" />
+        </mxCell>
+        <mxCell id="jCWFJV8IkxHFCPmysHlB-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="PROGAM UTAMA" vertex="1">
+          <mxGeometry height="30" width="185" x="35" y="-1140" as="geometry" />
+        </mxCell>
+        <mxCell id="jCWFJV8IkxHFCPmysHlB-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="PROGAM UTAMA" vertex="1">
+          <mxGeometry height="30" width="185" x="380" y="-1140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
