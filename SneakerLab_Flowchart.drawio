@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VppmEN4xuCA6ePT4Cfix">
-    <mxGraphModel dx="1880" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2091" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,10 +220,10 @@
           <mxGeometry height="100" width="205" x="-290" y="1220" as="geometry" />
         </mxCell>
         <mxCell id="znBZ04mh1O5TXBLmL7mh-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
-          <mxGeometry height="30" width="60" x="-190" y="1665" as="geometry" />
+          <mxGeometry height="30" width="60" x="-85" y="1490" as="geometry" />
         </mxCell>
         <mxCell id="znBZ04mh1O5TXBLmL7mh-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Iya" vertex="1">
-          <mxGeometry height="30" width="60" x="-90" y="1500" as="geometry" />
+          <mxGeometry height="30" width="60" x="-190" y="1665" as="geometry" />
         </mxCell>
         <mxCell id="znBZ04mh1O5TXBLmL7mh-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Selesai" vertex="1">
           <mxGeometry height="30" width="60" x="860" y="1830" as="geometry" />
